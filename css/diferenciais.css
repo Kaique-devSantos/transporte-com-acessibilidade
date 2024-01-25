@@ -26,6 +26,9 @@
   transform: translateX(-42px);
   text-transform: uppercase;
 }
+.diferenciais-diferencial-texto{
+  font-size: 18px;
+}
 
 .diferenciais-diferencial-titulo--tempo {
   background-image: url(../img/icone-relogio.png);
